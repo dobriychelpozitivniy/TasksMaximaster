@@ -1,0 +1,12 @@
+{
+    "name": "tolstyak/www",
+    "authors": [
+        {
+            "name": "dobriychelpozitivniy",
+            "email": "cnejniyray@gmail.com"
+        }
+    ],
+    "require": {
+        "gabordemooij/redbean": "dev-master"
+    }
+}

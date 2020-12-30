@@ -1,0 +1,42 @@
+.gBook-comment {
+    border       : 1px solid #000;
+    padding      : 10px;
+    width        : 444px;
+    height       : auto;
+    margin-bottom: 10px;
+}
+
+.gBook__comments {
+
+    margin-bottom: 50px;
+
+}
+
+.gBook-comment__item {
+    display        : flex;
+    justify-content: space-between;
+    margin-bottom  : 15px;
+}
+
+.gBook-form__name {
+    margin-bottom: 10px;
+}
+
+.gBook-form__text {
+    margin-bottom: 10px;
+    resize       : none;
+    width        : 300px;
+    height       : 50px;
+}
+
+.gBook-form__btn {
+    margin: 0 auto;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
